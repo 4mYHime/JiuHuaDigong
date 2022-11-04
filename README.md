@@ -1,4 +1,4 @@
-# JiuHuaMigong
+# JiuHuaDigong
 这就是江湖-九华地宫关灯顺序
 
 ## 使用说明
